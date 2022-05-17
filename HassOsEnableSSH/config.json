@@ -17,5 +17,6 @@
   },
   "schema": {
     "SSHKey": "str"
-  }
+  },
+  "init": "false"
 }
